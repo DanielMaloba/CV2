@@ -135,7 +135,7 @@ p {
 /****************************bottom-cloud**************************************/
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 15.625rem;
   bottom: 300px;
 }
 
